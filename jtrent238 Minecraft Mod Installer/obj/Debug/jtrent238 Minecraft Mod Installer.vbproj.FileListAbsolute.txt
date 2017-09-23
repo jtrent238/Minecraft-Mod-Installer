@@ -1,0 +1,17 @@
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\jtrent238 Minecraft Mod Installer.exe.config
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\jtrent238 Minecraft Mod Installer.exe
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\jtrent238 Minecraft Mod Installer.pdb
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\jtrent238 Minecraft Mod Installer.xml
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\Newtonsoft.Json.dll
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\SharpRaven.dll
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\Newtonsoft.Json.xml
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\SharpRaven.pdb
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\bin\Debug\SharpRaven.xml
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238 Minecraft Mod Installer.vbprojResolveAssemblyReference.cache
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238_Minecraft_Mod_Installer.EpicProportions.resources
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238_Minecraft_Mod_Installer.Form1.resources
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238_Minecraft_Mod_Installer.Resources.resources
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238 Minecraft Mod Installer.vbproj.GenerateResource.Cache
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238 Minecraft Mod Installer.exe
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238 Minecraft Mod Installer.xml
+c:\users\trent\documents\visual studio 2013\Projects\jtrent238 Minecraft Mod Installer\jtrent238 Minecraft Mod Installer\obj\Debug\jtrent238 Minecraft Mod Installer.pdb
